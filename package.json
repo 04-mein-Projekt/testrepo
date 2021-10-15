@@ -1,0 +1,23 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "test 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/04-mein-Projekt/testrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/04-mein-Projekt/testrepo/issues"
+  },
+  "homepage": "https://github.com/04-mein-Projekt/testrepo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
