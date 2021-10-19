@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/04-mein-Projekt/testrepo#readme",
   "devDependencies": {
+    "jest": "^27.3.1",
     "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
   }
 }
